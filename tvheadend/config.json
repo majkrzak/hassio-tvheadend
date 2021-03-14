@@ -26,9 +26,7 @@
       "9981/tcp": "TVH Webinterface",
       "9982/tcp": "TVH HTSP"
     },
-    "devices": [
-      "/dev/dvb"
-    ],
+    "full_access": true,
     "map": [
       "share:rw"
     ],
